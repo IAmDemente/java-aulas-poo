@@ -6,8 +6,8 @@ import br.sesi.gfd.poo.tronco.Tronco;
 
 public class Pessoa {
 
-        Cabeca cabeca;
-        Tronco tronco;
-        MembrosInferiores MI;
-        
+        public Cabeca cabeca;
+        public Tronco tronco;
+        public MembrosInferiores MI;
+
 }

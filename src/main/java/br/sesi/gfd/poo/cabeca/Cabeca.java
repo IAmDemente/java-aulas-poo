@@ -2,8 +2,8 @@ package br.sesi.gfd.poo.cabeca;
 
 public class Cabeca {
 
-    Olho zoio;
-    Orelha orelhao;
-    Nariz nariz;
-    Boca boca;
+    public Olho zoio;
+    public Orelha orelhao;
+    public Nariz nariz;
+    public Boca boca;
 }
